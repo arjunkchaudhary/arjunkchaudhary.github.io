@@ -1,6 +1,6 @@
 # Arjun Kumar Chaudhary — Personal site
 
-Bilingual (English / नेपाली) personal website modelled on [tarikulislambabu.github.io](https://tarikulislambabu.github.io/), built from the Australia Awards CV and additional academic notes.
+Bilingual (English / नेपाली) personal website of Arjun Kumar Chaudhary, Audit Officer at the Office of the Auditor General of Nepal and MBA and Master of Economics, Australian National University.
 
 ## Contents
 
