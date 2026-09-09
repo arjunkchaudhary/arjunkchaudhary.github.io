@@ -1,6 +1,6 @@
 # Arjun Kumar Chaudhary — Personal site
 
-Bilingual (English / नेपाली) personal website of Arjun Kumar Chaudhary, Audit Officer at the Office of the Auditor General of Nepal and MBA and Master of Economics, Australian National University.
+Bilingual (English / नेपाली) personal website of Arjun Kumar Chaudhary, Audit Officer at the Office of the Auditor General of Nepal and Master of Economics (Distinction), Australian National University.
 
 ## Contents
 
@@ -10,15 +10,11 @@ Bilingual (English / नेपाली) personal website of Arjun Kumar Chaudha
 
 ## Publish on GitHub Pages
 
-1. Create a new repository named `yourusername.github.io` (or any repo with Pages enabled).
+1. Create a repository named `yourusername.github.io`.
 2. Upload every file in this folder to the repository root.
 3. In the repo: **Settings → Pages → Deploy from branch `main` / root**.
 4. Site will be live at `https://yourusername.github.io/`.
 
-Replace `profile.jpg` with your own photograph whenever you wish. Gallery images are illustrative stand-ins — swap them for your own Canberra, office and Maghi photos.
-
 ## Notes
 
-- Contact details and referees are taken from the submitted CV.
-- Master of Economics with Distinction (College of Business and Economics, ANU) is included as requested.
 - Views on the site are personal and do not represent the Office of the Auditor General or the Government of Nepal.
